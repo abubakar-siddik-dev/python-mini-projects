@@ -64,3 +64,15 @@ git clone https://github.com/your-username/python-mini-projects.git
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+## Projects
+
+### 1. Todo App
+- Add, delete tasks
+- Simple CLI based task manager
+
+### 2. Calculator
+- Basic operations (+, -, *, /)
+
+### 3. File Organizer
+- Automatically organizes files by type
