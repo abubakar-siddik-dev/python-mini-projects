@@ -60,3 +60,7 @@ Automatically organizes files into folders based on their extensions:
 1. Clone the repository:
 `bash
 git clone https://github.com/your-username/python-mini-projects.git
+
+## 📜 License
+
+This project is licensed under the MIT License.
